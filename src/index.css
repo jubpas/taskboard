@@ -1,0 +1,24 @@
+@import './styles/globals.css';
+
+:root {
+  --text: #E5E5E5;
+  --text-h: #F5F5F5;
+  --bg: #0D0D0D;
+  --border: #2d1b4e;
+  --code-bg: #1a0a2e;
+  --accent: #A855F7;
+  --accent-bg: rgba(168, 85, 247, 0.1);
+  --accent-border: rgba(168, 85, 247, 0.5);
+  --social-bg: rgba(26, 10, 46, 0.5);
+  --shadow: rgba(168, 85, 247, 0.2) 0 10px 15px -3px, rgba(168, 85, 247, 0.1) 0 4px 6px -2px;
+
+  --sans: 'JetBrains Mono', system-ui, -apple-system, sans-serif;
+  --heading: 'JetBrains Mono', system-ui, -apple-system, sans-serif;
+  --mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+}
