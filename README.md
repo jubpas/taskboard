@@ -137,7 +137,7 @@ taskboard/
 
 ## 📸 Screenshots
 
-*(Add screenshots here when available)*
+![taskboard screenshot](screenshots/board.png)
 
 ---
 
